@@ -1,0 +1,22 @@
+.col-11 {
+  margin-left: 3%;
+}
+
+.card-body {
+  padding-top: 0;
+  padding-bottom: 0;
+  font-size: 20px;
+}
+
+td {
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.addform {
+  max-width: 50%;
+}
+
+.form {
+  padding-left: 20%;
+}

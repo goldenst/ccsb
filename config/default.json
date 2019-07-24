@@ -1,0 +1,4 @@
+{
+  "mongoUri" : "mongodb+srv://admin:Wrecker5150$@cluster0-yrsb1.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "StatusBoard"
+}
